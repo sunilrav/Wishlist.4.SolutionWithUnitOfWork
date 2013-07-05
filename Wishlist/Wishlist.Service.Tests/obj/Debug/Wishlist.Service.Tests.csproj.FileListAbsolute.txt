@@ -1,0 +1,20 @@
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.pdb
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.csprojResolveAssemblyReference.cache
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Service.Tests\bin\Debug\Wishlist.Service.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Service.Tests\obj\Debug\Wishlist.Service.Tests.pdb

@@ -1,0 +1,30 @@
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Core\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Core\obj\Debug\Wishlist.Core.pdb

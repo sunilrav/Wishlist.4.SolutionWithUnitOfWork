@@ -1,0 +1,131 @@
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll.config
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.pdb
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Optimization.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.pdb
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.csprojResolveAssemblyReference.cache
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll.config
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll.config
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll.config
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.Tests.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\WebActivator.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Wishlist.Web.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\bin\Debug\Ninject.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Web.Tests\obj\Debug\Wishlist.Web.Tests.pdb

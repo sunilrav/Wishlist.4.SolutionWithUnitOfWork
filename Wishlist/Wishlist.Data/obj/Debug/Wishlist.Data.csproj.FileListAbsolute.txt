@@ -1,0 +1,48 @@
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.csprojResolveAssemblyReference.cache
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+c:\Users\sravulapalli\documents\visual studio 2012\Projects\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Documents\Visual Studio 2012\Projects\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.1.BasicSolutionStructure\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\bin\Debug\Ninject.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\bin\Debug\Ninject.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\bin\Debug\Ninject.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.2.BasicSolutionWithNinject\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll.config
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\EntityFramework.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Ninject.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\EntityFramework.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Ninject.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\bin\Debug\Ninject.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.3.SolutionWithEntityFramework\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll.config
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Data.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\EntityFramework.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Ninject.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Core.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Wishlist.Core.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\EntityFramework.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Ninject.pdb
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\bin\Debug\Ninject.xml
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.csprojResolveAssemblyReference.cache
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.dll
+C:\Users\sravulapalli\Source\Repos\Wishlist.4.SolutionWithUnitOfWork\Wishlist\Wishlist.Data\obj\Debug\Wishlist.Data.pdb
